@@ -1,0 +1,22 @@
+{
+    "empleados": [
+        {
+            "nombre": "stiward Hernandez",
+            "email": "stiward.arturo@gmail.com",
+            "phone":"311 111 11 11",
+            "address":"a.c 123 #13-52 este",
+            "position": "Desarrollador",
+            "salary": 2000000,
+            "skills": "java, php, visual basic"
+        },
+        {
+            "nombre": "sebastian pabon",
+            "email": "sebastian.pabon@gmail.com",
+            "phone":"322 314 24 88",
+            "address":"a.c 31 sur #9a-27 este",
+            "position": "Especialista Desarrollador",
+            "salary": 2500000,
+            "skills": "java, php, javascript, mongoDB y SQL"
+        }
+    ]
+}

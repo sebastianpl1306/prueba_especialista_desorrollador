@@ -1,0 +1,54 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: brown;
+}
+
+nav{
+    background-color: azure;
+    width: 90%;
+    margin: auto;
+    height: 90vh;
+    margin-top: 30px;
+    padding: 10px 0px;
+}
+
+.title{
+    width: 100%;
+    text-align: center;
+    margin: 30px 0px;
+    font-size: 1.5rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.containerButtons{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.containerButtons ul{
+    list-style: none;
+}
+
+.containerButtons li{
+    display: block;
+    margin-bottom: 30px;
+}
+
+.containerButtons a{
+    font-size: 1.2rem;
+    padding: 10px 30px;
+    background-color: rgb(42, 42, 255);
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+.containerButtons a:hover{
+    background-color: rgb(16, 16, 255);
+}
